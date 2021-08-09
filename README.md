@@ -6,7 +6,8 @@
 - 🔭 I'm a back-end developer at Ericsson from Brazil
 - 🌱 I'm currently learning AWS basics and containers
 - 💬 E-mail: alyssonr.1993@gmail.com
-- 😄 Pronouns: ele/dele (him/his)
+- 😄 Pronouns: ele/dele (he/his)
+- 📚 Study reposity: [Learning!](https://github.com/AlyssonRhuan/learning)
 
  <div>
   <a href="https://github.com/AlyssonRhuan">
