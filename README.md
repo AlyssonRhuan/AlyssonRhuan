@@ -1,9 +1,9 @@
 <img src="ALYSSON RHUAN.png" alt="banner that says Alysson Rhuan, back-end developer">
 
 ### Hi there, my name is Alysson Rhuan
-#### My name is Alysson Rhuan, i'm a back-end developer at Ericsson from Brazil. I'm working mostly with Java
 
 - 🔭 I'm a back-end developer at Ericsson from Brazil
+- 🪓 I'm working mostly with Java nowadays
 - 🌱 I'm currently learning AWS basics and containers
 - 💬 E-mail: alyssonr.1993@gmail.com
 - 😄 Pronouns: ele/dele (he/his)
