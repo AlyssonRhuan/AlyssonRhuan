@@ -14,12 +14,12 @@
 <p align="center">Hi there, my name is Alysson Rhuan</p>
 
 <p align="center"> 
-- 🔭 I'm a back-end developer at Ericsson from Brazil<br />
-- 🪓 I'm working mostly with Java nowadays<br />
-- 🌱 I'm currently learning AWS basics and containers<br />
-- 💬 E-mail: alyssonr.1993@gmail.com<br />
-- 😄 Pronouns: ele/dele (he/his)<br />
-- 📚 Study reposity: [Learning](https://github.com/AlyssonRhuan/learning)<br />
+  🔭 I'm a back-end developer at Ericsson from Brazil<br />
+  🪓 I'm working mostly with Java nowadays<br />
+  🌱 I'm currently learning AWS basics and containers<br />
+  💬 E-mail: alyssonr.1993@gmail.com<br />
+  😄 Pronouns: ele/dele (he/his)<br />
+  📚 Study reposity: https://github.com/AlyssonRhuan/learning<br />
 </p>
 
 <br />
